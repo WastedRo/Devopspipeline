@@ -1,2 +1,0 @@
-# Devopspipeline
-Devopspipeline
